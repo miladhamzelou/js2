@@ -8798,11 +8798,11 @@ $.widget("np.npeditor", {
       },1000) 
    },
    Require : function(arg){
-    /*  var self = this, op = self.options, elem = self.element
+      var self = this, op = self.options, elem = self.element
       if(arg)
          self.RequireSpan.show();
       else
-         self.RequireSpan.hide();*/
+         self.RequireSpan.hide();
    },
    _setOption: function( key, value ) {
       var self=this;
