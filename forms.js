@@ -8825,7 +8825,7 @@ $.widget("np.npeditor", {
 
    },
    Val:function(val,Html){
-
+      /*
       if (typeof(val)!=='undefined'){
          if(Html){
             this.Editor.html(val);
@@ -8837,6 +8837,7 @@ $.widget("np.npeditor", {
                
       }
       return this.Editor.html(); 
+      */
    },
    _destroy : function() {
       var self = this, op = self.options, e = self.element;
