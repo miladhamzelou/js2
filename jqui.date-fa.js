@@ -1,5 +1,5 @@
 ﻿// Mahdi Hasheminezhad. email: hasheminezhad at gmail dot com (http://hasheminezhad.com)
-jQuery(function($){
+jQuery(function($){   
 	$.datepicker.regional['fa'] = {
 		calendar: JalaliDate,
 		closeText: 'بستن',
