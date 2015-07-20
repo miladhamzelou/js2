@@ -1,4 +1,7 @@
-var aaaaa= 0;//DontSend ==> RO                                                                                                                    
+var aaaaa= 0;//DontSend ==> RO      
+var bbbb = 0;    
+var cccc = 0;  
+var gggggg;                                                                                                        
 OPTOPT='_OPT';  
 window.onload = function() { 
    // Stop Back Button         
