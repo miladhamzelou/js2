@@ -8840,7 +8840,7 @@ $.widget("np.npeditor", {
       */
    },
    _destroy : function() {
-      var self = this, op = self.options, e = self.element;
+     // var self = this, op = self.options, e = self.element;
    }
 }); 
 
