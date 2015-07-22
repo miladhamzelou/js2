@@ -1,5 +1,6 @@
 //DontSend ==> RO                                                                                                                    
 OPTOPT='_OPT';
+var yyy = 0;
 var NavJSON=false;//true;//false;  
 window.onload = function() { 
    // Stop Back Button         
